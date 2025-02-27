@@ -1,5 +1,5 @@
 # Solid_GAN
-Creating 3D models using GAM 
+Creating 3D models using GAN 
 
 # Results (so far)
 
