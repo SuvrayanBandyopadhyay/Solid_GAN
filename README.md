@@ -1,5 +1,7 @@
 # Solid_GAN
-Creating 3D models using GAN 
+This repository contains some experiments I did with 3-dimensional GANs
+http://3dgan.csail.mit.edu/
+
 
 # Results (so far)
 
