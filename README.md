@@ -1,5 +1,6 @@
 # Solid_GAN
 This repository contains some experiments I did with 3-dimensional GANs
+
 http://3dgan.csail.mit.edu/
 
 
